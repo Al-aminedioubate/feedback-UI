@@ -4,7 +4,7 @@ body{
     height: 60vh;
     align-items: center;
     justify-content: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: monospace;
 }
 
 .container{
@@ -21,4 +21,5 @@ body{
 
 h1{
     color: green;
+    font-size: 40px;
 }
