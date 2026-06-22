@@ -29,4 +29,6 @@ h1{
 #reviewBtn{
     font-size: 20px;
     background-color: rgb(5, 186, 186);
+    border-style: none;
+    color: white;
 }
