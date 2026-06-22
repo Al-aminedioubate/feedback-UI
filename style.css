@@ -17,7 +17,7 @@ body{
     justify-content: center;
     gap: 50px;
     border-radius: 10px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
 
 h1{
@@ -26,6 +26,6 @@ h1{
     font-weight: bold;
 }
 
-button{
-    
+#reviewBtn{
+   
 }
