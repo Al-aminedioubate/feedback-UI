@@ -48,6 +48,10 @@ img{
   height: 50px;  
 }
 
+.container-feedback{
+
+}
+
 #unhappyBtn{
   display: flex;
   flex-direction: column;
