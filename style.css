@@ -49,7 +49,8 @@ img{
 }
 
 .container-feedback{
-
+  display: flex;
+  flex-direction: row;
 }
 
 #unhappyBtn{
