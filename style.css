@@ -39,7 +39,7 @@ h1{
 }
 
 #reviewBtn:hover{
-    background-color: aquamarine;
+  background-color: aquamarine;
 }
 
 img{
@@ -50,6 +50,7 @@ img{
 .container-feedback{
   display: flex;
   flex-direction: row;
+  gap: 50px;
 }
 
 #unhappyBtn{
