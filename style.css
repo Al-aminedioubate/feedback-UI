@@ -53,10 +53,6 @@ img{
   gap: 50px;
 }
 
-.container-feedback:hover{
-  
-}
-
 #unhappyBtn{
   display: flex;
   flex-direction: column;
