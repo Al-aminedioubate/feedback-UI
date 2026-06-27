@@ -28,15 +28,14 @@ h1{
 }
 
 #reviewBtn{
-    font-size: 18px;
-    background-color: rgb(5, 186, 186);
-    border-style: none;
-    color: white;
-    width: 150px;
-    height: 40px;
-    border-radius: 10px;
-    cursor: pointer;
-   transform: scale(1.1);
+  font-size: 18px;
+  background-color: rgb(5, 186, 186);
+  border-style: none;
+  color: white;
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  cursor: pointer;
 }
 
 #reviewBtn:hover{
