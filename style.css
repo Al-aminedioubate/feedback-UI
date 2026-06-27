@@ -53,6 +53,10 @@ img{
   gap: 50px;
 }
 
+#btnsStyle{
+
+}
+
 #unhappyBtn{
   display: flex;
   flex-direction: column;
