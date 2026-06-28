@@ -62,33 +62,3 @@ img{
   background-color: white;
   cursor: pointer;
 }
-
-#unhappyBtn{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  color: green;
-  border-style: none;
-  background-color: white;
-  cursor: pointer;
-}
-
-#neutralBtn{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  color: green;
-  border-style: none;
-  background-color: white;
-  cursor: pointer;
-}
-
-#SatisfiedBtn{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  color: green;
-  border-style: none;
-  background-color: white;
-  cursor: pointer;
-}
