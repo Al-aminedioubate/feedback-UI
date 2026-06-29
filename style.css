@@ -65,7 +65,6 @@ img{
 }
 
 .reviewBtns:hover{
-  background-color: aquamarine;
   transform: scale(1.1);
 }
 
