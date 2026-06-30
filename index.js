@@ -1,0 +1,1 @@
+//declaration et initialisation des variables
