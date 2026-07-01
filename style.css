@@ -40,7 +40,6 @@ h1{
 
 #reviewBtn:hover{
   background-color: aquamarine;
-  transform: scale(1.1);
 }
 
 img{
@@ -65,10 +64,10 @@ img{
 }
 
 .reviewBtns:hover{
-  transform: scale(1.1);
   background-color: rgb(109, 234, 109);
   height: 80px;
   width: 100px;
   border-radius: 10px;
+  align-self: center;
 }
 
