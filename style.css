@@ -75,10 +75,12 @@ img{
 /*Feedback section style*/
 .feedback-container{
   display: flex;
-  width: 500px;
+  flex-direction: column;
+  width: 550px;
   height: 200px;
   align-items: center;
   align-content: center;
   box-shadow: 4px 0px 10px rgb(21, 17, 17);
+  margin: 60px;
   border-radius: 10px;
 }
