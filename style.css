@@ -75,4 +75,6 @@ img{
 /*Feedback section style*/
 .container-feedback{
   display: flex;
+  width: 300px;
+  height: 200px;
 }
