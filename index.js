@@ -12,4 +12,5 @@ reviewBtn.addEventListener("click", () => {
 	}
 
 	console.log("evement detecter");
+	S;
 });
