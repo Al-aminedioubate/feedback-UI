@@ -7,10 +7,9 @@ let reviewBtn = document.getElementById("reviewBtn");
 
 //ajoutons l'evenement sur notre button send review
 reviewBtn.addEventListener("click", () => {
-	if (sadBtn.click) {
+	if (sadBtn.click == true) {
 		window.location.href = "feedback.html";
 	}
 
 	console.log("evement detecter");
-	S;
 });
