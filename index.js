@@ -7,7 +7,8 @@ let reviewBtn = document.getElementById("reviewBtn");
 
 //ajoutons l'evenement sur notre button send review
 reviewBtn.addEventListener("click", () => {
-	if (sadBtn.click == true) {
+	if (sadBtn.click) {
+		console.log("Lamine");
 		window.location.href = "feedback.html";
 	}
 
