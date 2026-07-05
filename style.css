@@ -53,6 +53,7 @@ img{
   gap: 50px;
 }
 
+/*Review btns section style*/
 .reviewBtns{
   display: flex;
   flex-direction: column;
