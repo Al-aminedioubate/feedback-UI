@@ -7,4 +7,6 @@ let satisBtn = document.getElementById("SatisfiedBtn");
 let reviewBtn = document.getElementById("reviewBtn");
 
 //ajoutons l'evenement sur notre button send review
-reviewBtn.addEventListener("click", () => {});
+reviewBtn.addEventListener("click", () => {
+	console.log("test du boutton");
+});
