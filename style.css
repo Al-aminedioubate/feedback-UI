@@ -7,6 +7,7 @@ body{
   justify-content: center;
   font-family: monospace;
 }
+
 /*container style*/
 .container{
   width: 500px;
@@ -51,6 +52,7 @@ img{
   height: 50px;  
 }
 
+/*Feedback container style*/
 .container-feedback{
   display: flex;
   flex-direction: row;
