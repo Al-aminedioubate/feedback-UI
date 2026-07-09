@@ -12,3 +12,5 @@ reviewBtn.addEventListener("click", () => {
 });
 
 //coming back for the next steps
+
+//faire fonctionner comme il faut le code
