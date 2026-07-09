@@ -10,3 +10,5 @@ let reviewBtn = document.getElementById("reviewBtn");
 reviewBtn.addEventListener("click", () => {
 	console.log("test du boutton");
 });
+
+//coming back for the next steps
