@@ -18,3 +18,4 @@ reviewBtn.addEventListener("click", () => {
 //coming back for the next steps
 //faire fonctionner comme il faut le code
 //faire fonctionner comme il faut le codes
+//coming back stronger
