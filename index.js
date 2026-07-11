@@ -19,3 +19,5 @@ reviewBtn.addEventListener("click", () => {
 //faire fonctionner comme il faut le code
 //faire fonctionner comme il faut le codes
 //coming back stronger
+
+//Never miss inspirations but today is
