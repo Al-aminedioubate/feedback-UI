@@ -27,3 +27,5 @@ reviewBtn.addEventListener("click", () => {
 //keep moving
 
 //Parfois on doute mais c'est normale
+
+//On veillit pas en continuant mais en arretant
