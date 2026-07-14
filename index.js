@@ -36,4 +36,3 @@ reviewBtn.addEventListener("click", () => {
 
 //L'aventure ma prise beaucoup de chose precieuse 
 
-//I guess that's the price to pay 
