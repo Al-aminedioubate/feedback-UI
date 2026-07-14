@@ -29,5 +29,3 @@ reviewBtn.addEventListener("click", () => {
 //Parfois on doute mais c'est normale
 
 //On veillit pas en continuant mais en arretant
-
-//je vais jamais abandonner
