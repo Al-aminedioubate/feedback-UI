@@ -31,6 +31,3 @@ reviewBtn.addEventListener("click", () => {
 //On veillit pas en continuant mais en arretant
 
 //je vais jamais abandonner
-
-//Sometimes the best thing we had is in the memories
-
