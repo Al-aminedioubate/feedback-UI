@@ -10,3 +10,5 @@ let reviewBtn = document.getElementById("reviewBtn");
 reviewBtn.addEventListener("click", () => {});
 
 //recommencer pour mieux avancer
+
+//Plus on repete mieux on devient bon
