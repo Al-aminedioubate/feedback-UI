@@ -12,5 +12,3 @@ reviewBtn.addEventListener("click", () => {});
 //recommencer pour mieux avancer
 
 //Plus on repete mieux on devient bon
-
-//la repetition cest le maitre
