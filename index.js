@@ -12,3 +12,5 @@ reviewBtn.addEventListener("click", () => {});
 //i know i missed twp days
 
 //Now im back again
+
+//it's not easy currently but doing my best
