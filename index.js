@@ -10,5 +10,3 @@ let reviewBtn = document.getElementById("reviewBtn");
 reviewBtn.addEventListener("click", () => {});
 
 //i know i missed twp days
-
-//Now im back again
