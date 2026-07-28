@@ -8,3 +8,5 @@ let reviewBtn = document.getElementById("reviewBtn");
 
 //ajoutons l'evenement sur notre button send review
 reviewBtn.addEventListener("click", () => {});
+
+//don't worry tomorrow will be better
