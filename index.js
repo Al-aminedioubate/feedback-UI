@@ -12,5 +12,3 @@ reviewBtn.addEventListener("click", () => {});
 //strugling to find something
 
 //trying my best
-
-//I need time to process something
