@@ -10,5 +10,3 @@ let reviewBtn = document.getElementById("reviewBtn");
 reviewBtn.addEventListener("click", () => {});
 
 //je dois aller vers autres choses
-
-//c'est pas facile en ce moment
