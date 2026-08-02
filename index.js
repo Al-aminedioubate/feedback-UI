@@ -9,8 +9,6 @@ let reviewBtn = document.getElementById("reviewBtn");
 //ajoutons l'evenement sur notre button send review
 reviewBtn.addEventListener("click", () => {});
 
-//je dois aller vers autres choses
-
 //c'est pas facile en ce moment
 
 //le plaisir de revenir
