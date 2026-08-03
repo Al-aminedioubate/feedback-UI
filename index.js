@@ -11,6 +11,4 @@ reviewBtn.addEventListener("click", () => {});
 
 //c'est pas facile en ce moment
 
-//le plaisir de revenir
-
 //i paused you cause i'm working on my CCNA certification live
