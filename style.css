@@ -59,7 +59,6 @@ img{
   gap: 50px;
 }
 
-/*Feedback btns section style*/
 .reviewBtns{
   display: flex;
   flex-direction: column;
