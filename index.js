@@ -9,6 +9,4 @@ let reviewBtn = document.getElementById("reviewBtn");
 //ajoutons l'evenement sur notre button send review
 reviewBtn.addEventListener("click", () => {});
 
-//i paused you cause i'm working on my CCNA certification live
-
 //la fatigue
