@@ -10,3 +10,5 @@ let reviewBtn = document.getElementById("reviewBtn");
 reviewBtn.addEventListener("click", () => {});
 
 //i paused you cause i'm working on my CCNA certification live
+
+//la fatigue
