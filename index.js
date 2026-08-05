@@ -10,3 +10,5 @@ let reviewBtn = document.getElementById("reviewBtn");
 reviewBtn.addEventListener("click", () => {});
 
 //La demande est faite
+
+//on si on se bloque quoi faire?
