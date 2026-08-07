@@ -14,5 +14,3 @@ reviewBtn.addEventListener("click", () => {});
 //on si on se bloque quoi faire?
 
 //je dois revenir n'est ce pas ?
-
-//mais je suis crever peu import je dois le faire sinon personne ne le fera
