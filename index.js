@@ -12,3 +12,5 @@ reviewBtn.addEventListener("click", () => {});
 //le plus important de faire ce qu'on doit faire cest tout
 
 //Actuellement tres interresser par le reseau
+
+//objective CCNA d'ici Janvier insha'Allah
