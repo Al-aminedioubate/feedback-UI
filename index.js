@@ -9,8 +9,8 @@ let reviewBtn = document.getElementById("reviewBtn");
 //ajoutons l'evenement sur notre button send review
 reviewBtn.addEventListener("click", () => {});
 
-//le plus important de faire ce qu'on doit faire cest tout
-
 //Actuellement tres interresser par le reseau
 
 //j'avance bien en reseau cest magnefique
+
+//demain seras un jour magnefique insh'Allah
