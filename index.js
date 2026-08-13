@@ -10,5 +10,3 @@ let reviewBtn = document.getElementById("reviewBtn");
 reviewBtn.addEventListener("click", () => {});
 
 //Actuellement tres interresser par le reseau
-
-//j'avance bien en reseau cest magnefique
