@@ -12,5 +12,3 @@ reviewBtn.addEventListener("click", () => {});
 //Actuellement tres interresser par le reseau
 
 //j'avance bien en reseau cest magnefique
-
-//demain seras un jour magnefique insh'Allah
