@@ -10,5 +10,3 @@ let reviewBtn = document.getElementById("reviewBtn");
 reviewBtn.addEventListener("click", () => {});
 
 //configuration packet tracer done
-
-//first proj started
