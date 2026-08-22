@@ -9,7 +9,6 @@ let reviewBtn = document.getElementById("reviewBtn");
 //ajoutons l'evenement sur notre button send review
 reviewBtn.addEventListener("click", () => {});
 
-//on va chercher un peu
 //javance bien en cours cisco
 
 //bien finir pour bien commencer
