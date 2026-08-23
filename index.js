@@ -12,5 +12,3 @@ reviewBtn.addEventListener("click", () => {});
 //javance bien en cours cisco
 
 //Je reflechi encore
-
-//i dont knnow what i put myself into
