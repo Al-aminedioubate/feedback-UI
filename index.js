@@ -10,3 +10,5 @@ let reviewBtn = document.getElementById("reviewBtn");
 reviewBtn.addEventListener("click", () => {});
 
 //La prochaine chose de ce mois cest mon ecran
+
+//Apres les claviers et souris
