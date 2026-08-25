@@ -16,3 +16,5 @@ reviewBtn.addEventListener("click", () => {});
 //Je vais commencer les activites de packet tracer bientot
 
 //Cela se passe tres bien et tout ira bien Insha'Allah
+
+//il faut tout donnee pour avoir tout
