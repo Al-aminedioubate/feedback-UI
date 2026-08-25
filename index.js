@@ -14,3 +14,5 @@ reviewBtn.addEventListener("click", () => {});
 //Apres les claviers et souris
 
 //Termine la formation en reseau et commencer react native
+
+//Je vais commencer les activites de packet tracer bientot
