@@ -22,3 +22,5 @@ reviewBtn.addEventListener("click", () => {});
 //on finira par gagner insha'Allah
 
 //vois tu que le temps passe vite
+
+//2026 est presque terminer
