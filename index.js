@@ -26,3 +26,5 @@ reviewBtn.addEventListener("click", () => {});
 //2026 est presque terminer
 
 //javais perdu tout ce que j'avais fait
+
+//j'ai recommencer encore pour maitriser
