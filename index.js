@@ -24,3 +24,5 @@ reviewBtn.addEventListener("click", () => {});
 //vois tu que le temps passe vite
 
 //2026 est presque terminer
+
+//javais perdu tout ce que j'avais fait
