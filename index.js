@@ -30,3 +30,5 @@ reviewBtn.addEventListener("click", () => {});
 //j'ai recommencer encore pour maitriser
 
 //J'ai pas fais grand chose avec packet tracer today
+
+//la cuisine a pris un peu du temps
