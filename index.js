@@ -28,3 +28,5 @@ reviewBtn.addEventListener("click", () => {});
 //javais perdu tout ce que j'avais fait
 
 //j'ai recommencer encore pour maitriser
+
+//J'ai pas fais grand chose avec packet tracer today
