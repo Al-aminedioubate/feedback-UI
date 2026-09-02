@@ -42,3 +42,6 @@ reviewBtn.addEventListener("click", () => {});
 //Where's the cap
 
 //the Thailand coming soon
+
+
+//une erreur qui ma aider a comprendre certaine base de packet tracer and le reseau
