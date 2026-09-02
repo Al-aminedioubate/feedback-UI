@@ -40,3 +40,5 @@ reviewBtn.addEventListener("click", () => {});
 //im back at it
 
 //Where's the cap
+
+//the Thailand coming soon
