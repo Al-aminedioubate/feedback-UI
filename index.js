@@ -43,5 +43,6 @@ reviewBtn.addEventListener("click", () => {});
 
 //the Thailand coming soon
 
-
 //une erreur qui ma aider a comprendre certaine base de packet tracer and le reseau
+
+//le terminal cisco ne fonctionne pas avec le cable ethernet seulement avec le cable physique console cable
