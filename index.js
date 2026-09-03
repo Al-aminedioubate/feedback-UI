@@ -48,3 +48,5 @@ reviewBtn.addEventListener("click", () => {});
 //le terminal cisco ne fonctionne pas avec le cable ethernet seulement avec le cable physique console cable
 
 //configuration de base terminer
+
+//La base compris
