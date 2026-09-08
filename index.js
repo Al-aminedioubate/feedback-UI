@@ -58,3 +58,6 @@ reviewBtn.addEventListener("click", () => {});
 //now what they think i can't be without them
 
 //you did good today thank you.
+
+
+//Thank God for everything. Thank me for everything i did today. 
