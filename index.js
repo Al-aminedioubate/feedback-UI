@@ -67,5 +67,6 @@ reviewBtn.addEventListener("click", () => {});
 
 //Thank me for all i did today. Make tomorrow great than today
 
-
 //Being soft and kind to myself is the best thing i did this year because life wasn't with me
+
+//back again with new chapter
