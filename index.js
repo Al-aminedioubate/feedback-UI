@@ -70,3 +70,5 @@ reviewBtn.addEventListener("click", () => {});
 //Being soft and kind to myself is the best thing i did this year because life wasn't with me
 
 //back again with new chapter
+
+//end of the week
