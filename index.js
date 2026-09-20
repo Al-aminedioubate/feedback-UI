@@ -82,3 +82,5 @@ reviewBtn.addEventListener("click", () => {});
 //Lot of amelioration today
 
 //as always show up no matter what
+
+//on rentre bien dans le sujet du packet tracer
