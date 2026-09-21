@@ -84,3 +84,5 @@ reviewBtn.addEventListener("click", () => {});
 //as always show up no matter what
 
 //on rentre bien dans le sujet du packet tracer
+
+//tout est un grand projet de reseau
