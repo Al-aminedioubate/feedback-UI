@@ -86,3 +86,5 @@ reviewBtn.addEventListener("click", () => {});
 //on rentre bien dans le sujet du packet tracer
 
 //tout est un grand projet de reseau
+
+//tout bien fini bien malgre la duree
