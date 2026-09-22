@@ -90,3 +90,5 @@ reviewBtn.addEventListener("click", () => {});
 //tout bien fini bien malgre la duree
 
 //hardest choice but worth it
+
+//Either do how i want it or leave
