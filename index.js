@@ -91,6 +91,4 @@ reviewBtn.addEventListener("click", () => {});
 
 //Either do how i want it or leave
 
-//if you don't care i won't care either
-
 //Poly it's the best
