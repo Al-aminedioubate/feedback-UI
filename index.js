@@ -96,3 +96,4 @@ reviewBtn.addEventListener("click", () => {});
 //Thank me later for everything done today
 
 //i made it through thanks God.
+//THank me for trying my best even though it was hard
