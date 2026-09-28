@@ -99,3 +99,5 @@ reviewBtn.addEventListener("click", () => {});
 //THank me for trying my best even though it was hard
 
 //i forget but i can't trust second time though
+
+//on prend du recule pour observer nos erreurs et recommencer comme il faut
