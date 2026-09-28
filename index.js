@@ -101,3 +101,5 @@ reviewBtn.addEventListener("click", () => {});
 //i forget but i can't trust second time though
 
 //on prend du recule pour observer nos erreurs et recommencer comme il faut
+
+//i will never chase you, life is too short to be with someone who doesn't want to stay.
