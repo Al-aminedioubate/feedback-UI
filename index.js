@@ -97,3 +97,5 @@ reviewBtn.addEventListener("click", () => {});
 
 //i made it through thanks God.
 //THank me for trying my best even though it was hard
+
+//i forget but i can't trust second time though
