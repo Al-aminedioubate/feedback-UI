@@ -9,8 +9,6 @@ let reviewBtn = document.getElementById("reviewBtn");
 //ajoutons l'evenement sur notre button send review
 reviewBtn.addEventListener("click", () => {});
 
-//Termine la formation en reseau et commencer react native
-
 //Je vais commencer les activites de packet tracer bientot
 
 //Cela se passe tres bien et tout ira bien Insha'Allah
