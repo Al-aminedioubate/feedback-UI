@@ -11,7 +11,7 @@ reviewBtn.addEventListener("click", () => {});
 
 //il faut tout donnee pour avoir tout
 
-//l'annee est presque fini
+//l'annee est presque fini et tout va tres vite a ce jour
 
 //on finira par gagner insha'Allah
 
