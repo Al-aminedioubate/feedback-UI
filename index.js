@@ -9,8 +9,6 @@ let reviewBtn = document.getElementById("reviewBtn");
 //ajoutons l'evenement sur notre button send review
 reviewBtn.addEventListener("click", () => {});
 
-//Cela se passe tres bien et tout ira bien Insha'Allah
-
 //il faut tout donnee pour avoir tout
 
 //l'annee est presque fini
