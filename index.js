@@ -101,3 +101,5 @@ reviewBtn.addEventListener("click", () => {});
 //encours de telechargement
 
 //on arrivera insha'Allah
+
+//anormal ce qui se passe actuellement
