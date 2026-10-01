@@ -105,3 +105,5 @@ reviewBtn.addEventListener("click", () => {});
 //anormal ce qui se passe actuellement
 
 //fait non enregistrer
+
+//je sais pas moi tu veux dire quoi exactement.
