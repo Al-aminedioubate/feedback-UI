@@ -113,3 +113,5 @@ reviewBtn.addEventListener("click", () => {});
 //Je suis d'accord moi
 
 //aller lentement mais surement.
+
+//La vie c'est pas une course de vitesse
