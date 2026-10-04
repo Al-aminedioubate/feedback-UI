@@ -115,3 +115,5 @@ reviewBtn.addEventListener("click", () => {});
 //aller lentement mais surement.
 
 //La vie c'est pas une course de vitesse
+
+//cest rafrechisant cette douleur de vidange.
