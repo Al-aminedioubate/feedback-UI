@@ -117,3 +117,5 @@ reviewBtn.addEventListener("click", () => {});
 //La vie c'est pas une course de vitesse
 
 //cest rafrechisant cette douleur de vidange.
+
+//on va se nettoyer comme il faut pour etre pure
