@@ -127,3 +127,5 @@ reviewBtn.addEventListener("click", () => {});
 //je vais passer de mon chemin
 
 //feeling exausted
+
+//let push as much as we can
