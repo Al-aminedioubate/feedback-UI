@@ -119,3 +119,5 @@ reviewBtn.addEventListener("click", () => {});
 //cest rafrechisant cette douleur de vidange.
 
 //on va se nettoyer comme il faut pour etre pure
+
+//la hauteur de quoi?
