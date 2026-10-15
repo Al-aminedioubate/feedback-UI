@@ -139,3 +139,5 @@ reviewBtn.addEventListener("click", () => {});
 //higher in the room
 
 //king of my own life by God blessing
+
+//Together win or loose as a team
