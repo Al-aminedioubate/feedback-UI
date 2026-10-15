@@ -131,3 +131,5 @@ reviewBtn.addEventListener("click", () => {});
 //let push as much as we can
 
 //Naturaly back again
+
+//i got my monitor i will be wild on coding again with confort
