@@ -143,3 +143,5 @@ reviewBtn.addEventListener("click", () => {});
 //Together win or loose as a team
 
 //Faire des milli c'est tout par la grace de Dieu
+
+//le king himself
