@@ -141,3 +141,5 @@ reviewBtn.addEventListener("click", () => {});
 //king of my own life by God blessing
 
 //Together win or loose as a team
+
+//Faire des milli c'est tout par la grace de Dieu
