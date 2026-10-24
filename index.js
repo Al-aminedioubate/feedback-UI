@@ -145,3 +145,5 @@ reviewBtn.addEventListener("click", () => {});
 //Faire des milli c'est tout par la grace de Dieu
 
 //le king himself
+
+//i need to pay my US visa fee.
