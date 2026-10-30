@@ -154,3 +154,5 @@ reviewBtn.addEventListener("click", () => {});
 //Reviens plus fort
 
 //so happy and greatful i installed my new desk today
+
+//after 6 years i finally set up a new desktop at home
