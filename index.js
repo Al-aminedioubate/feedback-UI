@@ -158,3 +158,5 @@ reviewBtn.addEventListener("click", () => {});
 //after 6 years i finally set up a new desktop at home
 
 //incredible year blessed beyond the word\
+
+//all good things take times. Thanks lord for everything i can't thank you enough 
