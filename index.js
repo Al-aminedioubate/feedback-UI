@@ -159,4 +159,6 @@ reviewBtn.addEventListener("click", () => {});
 
 //incredible year blessed beyond the word\
 
-//all good things take times. Thanks lord for everything i can't thank you enough 
+//all good things take times. Thanks lord for everything i can't thank you enough
+
+// you really blessed with your abundance thank you.
