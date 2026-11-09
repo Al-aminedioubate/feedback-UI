@@ -55,7 +55,7 @@ img{
 /*Feedback container style*/
 .container-feedback{
   display: flex;
-  flex-direction: row;
+  flex-direction: row;          
   gap: 50px;
 }
 
